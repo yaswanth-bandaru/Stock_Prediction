@@ -2,9 +2,9 @@
 
 ## Approach
 
-* Fetch the data using Yfinance library
-* Get the closing price and calculate technical indicators
-* Fit LSTM, Prophet and Reinforcement models
+* Fetch the data using Yfinance library.
+* Get the closing price and calculate technical indicators.
+* Fit LSTM, Prophet and Reinforcement models.
 
 ## Results
 
