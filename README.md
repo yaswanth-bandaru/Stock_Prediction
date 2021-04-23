@@ -19,3 +19,10 @@
 ### Reinforcement Learning
 
 ![Reinforcement Learning](https://user-images.githubusercontent.com/30667531/115501782-6c600600-a239-11eb-90e2-33c5346ffbc6.PNG)
+
+### References
+
+https://towardsdatascience.com/deep-reinforcement-learning-for-automated-stock-trading-f1dad0126a02
+https://www.researchgate.net/publication/324802031_Algorithmic_Financial_Trading_with_Deep_Convolutional_Neural_Networks_Time_Series_to_Image_Conversion_Approach
+https://medium.com/@joeng_12502/uni-variate-multi-variate-and-multi-step-time-series-forecast-with-lstm-c3f8318adf68
+
